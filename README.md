@@ -3,3 +3,5 @@
 
 #Grading
 ![grading imagel](Grading.jpg)
+
+#สมาชิกกลุ่ม Midterm ดุ๊กกิ๊ก
